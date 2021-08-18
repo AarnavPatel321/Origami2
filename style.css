@@ -1,0 +1,27 @@
+img {
+  border: 5px solid black;
+  border-radius: 40px;
+}
+h1 {
+  color: rgb(0, 119, 255);
+  background-color: aquamarine;
+}
+ol {
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+.Origami {
+  border-radius: 20px;
+  width: 310px;
+  background-color: coral;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: 5px solid black;
+}
+.grid {
+  display: flex;
+    justify-content:space-between;
+  
+}
